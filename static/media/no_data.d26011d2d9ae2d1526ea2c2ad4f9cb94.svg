@@ -1,0 +1,22 @@
+<svg width="287" height="100" viewBox="0 0 287 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6 19H36L66 93.5H94" stroke="#8DC2F2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="6.5" cy="18.5" r="5.25" fill="white" stroke="#8DC2F2" stroke-width="1.5"/>
+<circle cx="35.5" cy="18.5" r="5.25" fill="white" stroke="#8DC2F2" stroke-width="1.5"/>
+<circle cx="65.5" cy="93.5" r="5.25" fill="white" stroke="#8DC2F2" stroke-width="1.5"/>
+<circle cx="93.5" cy="93.5" r="5.25" fill="white" stroke="#8DC2F2" stroke-width="1.5"/>
+<path d="M281 19H251L221 93.5H193" stroke="#8DC2F2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="4.5" cy="4.5" r="5.25" transform="matrix(-1 0 0 1 285 14)" fill="white" stroke="#8DC2F2" stroke-width="1.5"/>
+<circle cx="4.5" cy="4.5" r="5.25" transform="matrix(-1 0 0 1 256 14)" fill="white" stroke="#8DC2F2" stroke-width="1.5"/>
+<circle cx="4.5" cy="4.5" r="5.25" transform="matrix(-1 0 0 1 226 89)" fill="white" stroke="#8DC2F2" stroke-width="1.5"/>
+<circle cx="4.5" cy="4.5" r="5.25" transform="matrix(-1 0 0 1 198 89)" fill="white" stroke="#8DC2F2" stroke-width="1.5"/>
+<circle cx="141" cy="50" r="49" fill="url(#paint0_linear_10590_98048)" fill-opacity="0.3" stroke="#8DC2F2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="124" cy="39" r="4" fill="#8DC2F2"/>
+<circle cx="149" cy="33" r="4" fill="#8DC2F2"/>
+<line x1="131.058" y1="57.1616" x2="154.162" y2="50.9415" stroke="#8DC2F2" stroke-width="3" stroke-linecap="round"/>
+<defs>
+<linearGradient id="paint0_linear_10590_98048" x1="132.5" y1="2" x2="141" y2="98" gradientUnits="userSpaceOnUse">
+<stop stop-color="#189EFF" stop-opacity="0.22"/>
+<stop offset="1" stop-color="#18C8FF" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
